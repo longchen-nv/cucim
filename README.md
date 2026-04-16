@@ -4,9 +4,9 @@
 
 cuCIM offers:
 
-- Enhanced Image Processing Capabilities for large and n-dimensional tag image file format (TIFF) files
+- Enhanced image processing capabilities for large and n-dimensional tagged image file format (TIFF) files
 - Accelerated performance through Graphics Processing Unit (GPU)-based image processing and computer vision primitives
-- A Straightforward Pythonic Interface with Matching Application Programming Interface (API) for Openslide
+- A straightforward Pythonic interface with a matching application programming interface (API) for OpenSlide
 
 cuCIM supports the following formats:
 
